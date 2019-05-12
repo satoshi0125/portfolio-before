@@ -1,5 +1,11 @@
+## What's a Portfolio?
 
-[Portfolio](https://satoshi0125.github.io/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+A [Portfolio](https://satoshi0125.github.io/)  is a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training and experiences. It provides insight into your personality and work ethic.
+the page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+
+## Why should I have a portfolio?
+The process of putting together a portfolio itself will help you become a more effective interviewee. You will be identifying the skills you have gained through your various experiences and how they relate to the career you are interested in. Choosing the most relevant experiences and putting them in an easily understood format will help you better articulate your skills and experiences when asked questions about your qualifications in an interview. A professional portfolio will also show an employer proof of your organizational, communication, and tangible career related skills.
+If you would like to know more details, you access [What is a Portfolio?](https://www.clarke.edu/academics/careers-internships/student-checklist/resume-writing-and-portfolios/what-is-a-portfolio/) from Clarke University.
 
 ## Status
 
@@ -29,7 +35,7 @@ Start Bootstrap was created by and is maintained by **[David Miller](http://davi
 
 Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-i# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+detail information [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
 
 ## Copyright and License
 
