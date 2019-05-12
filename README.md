@@ -37,7 +37,7 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 detail information [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
 
-github : https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio
+detail github : https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio
 
 ## Copyright and License
 
