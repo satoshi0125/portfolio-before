@@ -17,7 +17,7 @@ If you would like to know more details, you access [What is a Portfolio?](https:
 
 ## Bugs and Issues
 
-Have a bug or an issue with this portfolio? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/).
+Have a bug or an issue with this portfolio? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio/issues) here on GitHub or leave a comment on the [overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/stylish-portfolio/)
 Please contact me if you need anything.
 
 ## About
